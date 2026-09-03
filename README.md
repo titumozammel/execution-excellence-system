@@ -15,7 +15,7 @@
 
 ## Execution Excellence System (EES)
 
-**Execution Excellence System (EES)** is an execution management system within the **Human Energy Economics (HEE)** ecosystem that transforms execution into a continuously improving, increasingly reliable, and self-reinforcing system.
+**Execution Excellence System (EES)** is an execution management system within the **Human Energy Economics (HEE)** ecosystem that turns execution into a continuously improving, increasingly reliable, and self-reinforcing organizational system.
 
 EES focuses on the organizational ability to translate intent and decisions into coordinated action, measurable results, learning, adaptation, and stronger future execution capability.
 
@@ -28,7 +28,7 @@ EES focuses on the organizational ability to translate intent and decisions into
 **Execution Management.**
 
 HEE explains the economics of organizational capacity.  
-OEOS/OOS provides the broader management architecture.  
+OEOS/OOS provides the broader management and operating architecture.  
 EES manages the system through which intended work becomes coordinated execution, results, learning, and adaptation.
 
 ---
@@ -49,7 +49,7 @@ Movement is occurring toward an intended outcome.
 
 ### Execution
 
-Intent is being reliably translated into coordinated action and results.
+Intent and decisions are being reliably translated into coordinated action and results.
 
 ### Sustained Execution
 
@@ -61,7 +61,7 @@ Execution remains repeatable without unnecessarily degrading the capacity requir
 
 EES therefore does not define excellence simply as doing more, moving faster, or producing more activity.
 
-It defines execution excellence through **reliable translation, control, learning, adaptation, and strengthening of future execution capability.**
+It defines execution excellence through **reliable translation, alignment, control, learning, adaptation, and strengthening of future execution capability.**
 
 ---
 
@@ -81,15 +81,15 @@ and still struggle to execute reliably.
 
 Even a sound strategy can fail in execution when:
 
-- priorities compete,
-- decisions are unclear,
-- dependencies create waiting,
-- capability is fragmented,
-- execution conditions are weak,
-- work is repeatedly reworked,
-- coordination breaks down,
-- constraints remain unresolved,
-- accountability is unclear,
+- priorities compete;
+- decisions are unclear or delayed;
+- dependencies create waiting;
+- capability is fragmented;
+- execution conditions are weak;
+- work is repeatedly reworked;
+- coordination breaks down;
+- constraints remain unresolved;
+- accountability is unclear;
 - learning does not translate into adaptation.
 
 The visible problem may appear as:
@@ -100,7 +100,7 @@ But the underlying issue may be an **execution constraint** rather than a lack o
 
 ### Core EES Problem
 
-> **Intent is not reliably becoming coordinated action and results.**
+> **Intent and decisions are not reliably becoming coordinated action and results.**
 
 ---
 
@@ -119,6 +119,10 @@ And:
 > **What must change so that execution becomes more reliable next time?**
 
 EES therefore looks beyond the immediate result to the conditions, constraints, capabilities, decisions, and learning mechanisms that produced the result.
+
+The objective is not merely to explain failure after it occurs.
+
+It is to strengthen the system's ability to **recognize constraints, respond effectively, learn, adapt, and execute again.**
 
 ---
 
@@ -142,15 +146,21 @@ A condition that materially limits execution.
 
 ### Capability
 
-The ability to perform or execute.
+Potential: the knowledge, skills, experience, judgment, or other ability available to perform or contribute.
+
+> **Capability = Potential.**
 
 ### Capacity
 
-The ability to mobilize and apply available capability.
+The ability to mobilize and apply available potential.
+
+> **Capacity = Ability to mobilize and apply potential.**
 
 ### Execution Capability
 
 The organizational ability to convert intent and decisions into coordinated execution.
+
+Execution capability depends not only on individual competence, but also on the organization's ability to access, connect, direct, enable, coordinate, and apply available capability.
 
 ### Execution Constraint
 
@@ -188,7 +198,7 @@ The Human Energy available for effective application and execution.
 
 ### Capability
 
-The knowledge, skills, experience, judgment, and ability required to perform.
+The knowledge, skills, experience, judgment, and other potential required for effective performance.
 
 ### Connection
 
@@ -210,11 +220,11 @@ It **manages execution in relation to them** and identifies when one or more con
 
 # 7. HEART × HEAD × HAND × FLOW
 
-EES uses a conceptual four-part model for understanding execution conditions:
+EES uses a conceptual four-part model for understanding important execution conditions:
 
 > **HEART × HEAD × HAND × FLOW**
 
-The model is diagnostic rather than a validated quantitative equation.
+The model is **diagnostic and conceptual, not a validated quantitative equation**.
 
 ## HEART — Human Energy
 
@@ -292,7 +302,7 @@ Conceptually:
 
 > **Flow Integrity = the degree to which execution can move continuously, coherently, and predictably through the system.**
 
-Flow Integrity is affected by:
+Flow Integrity may be affected by:
 
 - artificial constraints,
 - bottlenecks,
@@ -334,7 +344,7 @@ IECA establishes a baseline view of:
 - execution practices,
 - flow conditions.
 
-IECA identifies what the organization currently possesses.
+IECA identifies what the organization currently possesses and can potentially mobilize.
 
 ---
 
@@ -365,7 +375,7 @@ IECD moves the organization from **observation to diagnosis**.
 
 > **What should be addressed first?**
 
-ECI identifies and prioritizes the execution constraints with the greatest effect on:
+ECI identifies and prioritizes execution constraints with the greatest potential effect on:
 
 - execution reliability,
 - dependency,
@@ -376,6 +386,8 @@ ECI identifies and prioritizes the execution constraints with the greatest effec
 ### HEE Prioritization Logic
 
 > **Priority = Urgency × Dependency × Value Impact**
+
+This is a **management heuristic, not a universal quantitative law**.
 
 The purpose is not to remove every constraint.
 
@@ -401,15 +413,15 @@ Determine what is limiting execution.
 
 ### Prioritize
 
-Identify what matters most to execution reliability and value.
+Identify what matters most to execution reliability, dependency, urgency, value, and future capacity.
 
 ### Align
 
-Translate priorities into coordinated action, ownership, timing, and decisions.
+Translate priorities into coordinated action, ownership, timing, dependencies, and decisions.
 
 ### Execute
 
-Convert intent into action and results.
+Convert intent and decisions into action and results.
 
 ### Monitor
 
@@ -425,7 +437,7 @@ Change methods, conditions, priorities, or capability when circumstances or lear
 
 ### Learn
 
-Convert execution experience and results into improved understanding.
+Convert execution experience and results into improved understanding, decisions, capability, or conditions.
 
 ### Grow
 
@@ -453,7 +465,7 @@ Stabilize and maintain improved execution.
 
 ### ADAPT
 
-Learn from changing conditions and results.
+Learn from changing conditions and results and adjust accordingly.
 
 ### GROW
 
@@ -509,22 +521,29 @@ Execution capability is not simply the sum of individual competence.
 
 It depends on the organization's ability to:
 
-- access capability,
-- connect capability,
-- direct capability,
-- enable application,
-- coordinate action,
-- make decisions,
-- execute consistently,
-- monitor outcomes,
-- learn,
+- access capability;
+- connect capability;
+- direct capability;
+- enable application;
+- coordinate action;
+- make and translate decisions;
+- execute consistently;
+- monitor outcomes;
+- learn;
 - adapt.
+
+The foundational HEE distinction remains:
+
+> **Capability = Potential.**  
+> **Capacity = Ability to mobilize and apply potential.**
+
+EES is particularly concerned with what happens between **having capability** and **reliably applying capability**.
+
+Capability may exist without sufficient organizational capacity for application.
 
 Therefore:
 
-> **Capability is potential. Capacity is potential made available for application.**
-
-EES is particularly concerned with what happens between **having capability** and **reliably applying capability**.
+> **Capability does not automatically become execution.**
 
 ---
 
@@ -542,15 +561,15 @@ Decision Quality and execution are related but distinct.
 
 A good decision may fail in execution because:
 
-- ownership is unclear,
-- dependencies are unresolved,
-- capability is unavailable,
-- resources are constrained,
-- communication fails,
-- priorities conflict,
+- ownership is unclear;
+- dependencies are unresolved;
+- capability is unavailable;
+- resources are constrained;
+- communication fails;
+- priorities conflict;
 - enablement conditions are weak.
 
-Conversely, strong execution cannot compensate indefinitely for poor strategic or decision quality.
+Conversely, strong execution cannot compensate indefinitely for poor strategy or poor decision quality.
 
 ### Decision-to-Execution Learning Loop
 
@@ -584,7 +603,7 @@ EES manages the execution that follows.
 
 > **HEEn → Effective Application → EES → Sustained Execution**
 
-HEEn therefore precedes and enables effective application, while EES manages the execution system through which application becomes coordinated action and results.
+HEEn therefore strengthens the conditions for application, while EES manages the execution system through which application becomes coordinated action and results.
 
 ---
 
@@ -604,7 +623,7 @@ EES identifies when Human Energy conditions materially affect execution and uses
 
 EES therefore does not treat Human Energy simply as an individual motivation problem.
 
-Human Energy is an execution condition that must be understood within the wider system.
+Human Energy is an execution condition that must be understood within the wider organizational system.
 
 ---
 
@@ -612,7 +631,7 @@ Human Energy is an execution condition that must be understood within the wider 
 
 ## Operational Silence Framework
 
-OSF focuses on unnecessary recurring operational demand and noise.
+OSF focuses on unnecessary recurring operational demand and operational noise.
 
 EES focuses on execution of the work that remains necessary.
 
@@ -622,7 +641,7 @@ EES focuses on execution of the work that remains necessary.
 
 ### EES asks:
 
-> **How can the remaining work be executed reliably?**
+> **How can the remaining necessary work be executed reliably?**
 
 The relationship is complementary:
 
@@ -640,13 +659,13 @@ They remain distinct frameworks within the HEE ecosystem.
 
 3C directs organizational attention toward:
 
-> **Source · Dependency · Constraint**
+> **SOURCE · DEPENDENCY · CONSTRAINT**
 
-3C answers:
+3C asks:
 
 > **Where should attention be directed?**
 
-EES answers:
+EES asks:
 
 > **How should the resulting execution be managed?**
 
@@ -664,21 +683,23 @@ It is a complementary strategic attention mechanism within the broader HEE ecosy
 
 ## 5R Cascade Framework
 
-5R determines what should happen to recurring demand:
+5R determines what should happen to recurring operational demand:
 
 > **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-5R answers:
+5R asks:
 
 > **What should happen to this recurring demand?**
 
-EES answers:
+EES asks:
 
-> **How should the work that remains be executed, controlled, and improved?**
+> **How should the work that remains be executed, controlled, learned from, and improved?**
 
 Therefore:
 
 > **5R determines disposition. EES manages execution.**
+
+5R and EES are complementary rather than sequential requirements.
 
 ---
 
@@ -733,7 +754,7 @@ However:
 
 > **Execution Conditions → EX → CX → Feedback → Execution Adaptation**
 
-This connects EES to the broader HEE **EX ↔ CX** logic.
+This connects EES to the broader HEE **EX ↔ CX** logic without claiming a universal or mechanical causal relationship.
 
 ---
 
@@ -822,11 +843,13 @@ As organizations grow, they often experience increases in:
 
 > **Organizational growth can increase execution demand faster than execution capability.**
 
-When this occurs:
+Conceptually:
 
-> **Execution Demand > Execution Capability → Execution Friction → Performance Degradation**
+> **Execution Demand > Execution Capability → Greater Execution Friction → Increased Risk of Performance Degradation**
 
-Sustainable growth therefore requires corresponding growth in execution capability.
+This is a diagnostic relationship, not a universal quantitative law.
+
+Sustainable growth therefore requires corresponding development of execution capability and capacity.
 
 ### Desired Relationship
 
@@ -844,16 +867,16 @@ EES views execution as a learning system rather than a one-time conversion.
 
 ### Core Cycle
 
-> **INTENT → EXECUTION → RESULTS → LEARNING → CAPABILITY → IMPROVED EXECUTION → SUSTAINABLE EXECUTION CAPACITY → SUSTAINABLE BUSINESS VALUE**
+> **INTENT → EXECUTION → RESULTS → LEARNING → IMPROVED CAPABILITY / DECISIONS / CONDITIONS → IMPROVED EXECUTION → SUSTAINABLE EXECUTION CAPACITY → SUSTAINABLE BUSINESS VALUE**
 
 The cycle becomes self-reinforcing when:
 
 1. execution produces observable results;
 2. results generate learning;
-3. learning improves decisions, capability, or conditions;
-4. improved capability strengthens execution;
-5. stronger execution expands sustainable execution capacity;
-6. stronger capacity supports greater and more sustainable value creation.
+3. learning improves decisions, capability, or operating conditions;
+4. improved capability or conditions strengthen execution;
+5. stronger execution strengthens sustainable execution capacity;
+6. stronger capacity supports more sustainable value creation.
 
 ---
 
@@ -875,6 +898,8 @@ EES therefore evaluates execution not only through immediate performance but als
 - organizational resilience,
 - sustainable value creation.
 
+The contribution to Sustainable Business Value is therefore mediated through stronger execution and sustainable execution capacity rather than assumed to be automatic.
+
 ---
 
 # 25. EES MANAGEMENT LOGIC
@@ -894,6 +919,8 @@ Management should continually ask:
 7. What are we learning?
 8. What must change?
 9. What capability must grow?
+
+This is a management logic rather than a mandatory linear sequence.
 
 ---
 
@@ -926,6 +953,7 @@ Management should continually ask:
 - Is the organization learning from recurring failure?
 - Is execution becoming more reliable?
 - Is execution capability growing with organizational complexity?
+- Is today's execution strengthening or weakening tomorrow's execution capacity?
 
 ---
 
@@ -957,7 +985,7 @@ People, decisions, priorities, dependencies, and resources must work coherently.
 
 ### 7. Control stabilizes execution.
 
-Without control, improvements can decay.
+Without appropriate control, improvements can decay.
 
 ### 8. Learning must change execution.
 
@@ -988,11 +1016,14 @@ EES is part of a larger HEE ecosystem.
 It does not replace:
 
 - **HEE** — foundational economic theory and lens;
-- **OEOS/OOS** — broader organizational management architecture;
-- **OSF** — operational demand/noise reduction;
+- **OEOS/OOS** — broader organizational management and operating architecture;
+- **OSF** — operational demand and noise reduction;
 - **3C** — strategic attention toward Source, Dependency, or Constraint;
 - **5R** — recurring-demand disposition;
 - **HEMS** — Human Energy management;
+- **HEA** — Human Energy diagnosis;
+- **HERF** — Human Energy recovery;
+- **HEDP** — Human Energy and capability development;
 - **HEEn** — organizational enablement;
 - **Decision Quality** — quality of decisions themselves;
 - **SLA** — service commitments;
@@ -1000,7 +1031,7 @@ It does not replace:
 
 ### Boundary Principle
 
-> **EES manages the execution through which these conditions, decisions, commitments, and mechanisms become coordinated action and results.**
+> **EES manages execution in relation to these conditions, decisions, commitments, and mechanisms; it does not own all of them.**
 
 ---
 
@@ -1127,6 +1158,8 @@ The objective is not to eliminate variation.
 
 It is to increase the organization's ability to recognize, respond to, learn from, and adapt to variation.
 
+This maturity model is **conceptual rather than a validated measurement scale**.
+
 ---
 
 # 32. EES ARCHITECTURE WITHIN HEE
@@ -1145,15 +1178,21 @@ Explains the economic problem of organizational capacity, drain, and sustainable
 
 Provides the broader management and operating architecture.
 
-### Complementary Frameworks
+### Complementary Mechanisms
 
-**OSF** → identifies unnecessary recurring operational demand/noise.
+**OSF** → identifies and reduces unnecessary recurring operational demand and noise.
 
 **3C** → directs strategic attention toward Source, Dependency, or Constraint.
 
 **5R** → determines the disposition of recurring demand.
 
 **HEMS** → manages Human Energy.
+
+**HEA** → diagnoses Human Energy conditions.
+
+**HERF** → recovers depleted Human Energy.
+
+**HEDP** → develops Human Energy and capability.
 
 **HEEn** → enables available Human Energy and capability for effective application.
 
@@ -1164,6 +1203,8 @@ Provides the broader management and operating architecture.
 ### Result
 
 > **Sustainable Execution Capacity → Sustainable Business Value**
+
+These mechanisms are **complementary, not interchangeable and not a single mandatory sequence**.
 
 ---
 
@@ -1177,13 +1218,15 @@ EES asks:
 
 > **How can the organization reliably execute, learn, adapt, and strengthen its ability to execute again?**
 
-The relationship is:
+The relationship can be expressed as:
 
 > **HEE → Execution Conditions → EES → Sustained Execution → Sustainable Execution Capacity → Sustainable Business Value**
 
 EES therefore operationalizes one critical dimension of HEE:
 
 > **The management of execution as a system rather than as a collection of isolated activities.**
+
+EES does not replace the broader HEE economic lens; it provides the execution-management mechanism within that ecosystem.
 
 ---
 
@@ -1195,7 +1238,7 @@ EES therefore operationalizes one critical dimension of HEE:
 | **Abbreviation** | EES |
 | **Primary Role** | Execution Management System |
 | **Within HEE** | Manages reliable, adaptive, sustainable execution |
-| **Core Problem** | Intent failing to become reliable results |
+| **Core Problem** | Intent and decisions failing to become reliable results |
 | **Foundational Distinction** | Activity ≠ Progress ≠ Execution ≠ Sustained Execution |
 | **Six Conditions** | Demand · Human Energy · Capability · Connection · Decision Quality · Enablement |
 | **Conceptual Model** | HEART × HEAD × HAND × FLOW |
@@ -1221,11 +1264,14 @@ EES operates within the Human Energy Economics ecosystem alongside:
 - **3C Strategic Approach**
 - **5R Cascade Framework**
 - **Human Energy Management System (HEMS)**
+- **Human Energy Audit (HEA)**
+- **Human Energy Recovery Framework (HERF)**
+- **Human Energy Development Plan (HEDP)**
 - **Human Energy Enablement (HEEn)**
 
 These mechanisms are complementary.
 
-They should not be interpreted as five sequential stages of a mandatory execution process.
+They should not be interpreted as mandatory sequential stages of a single execution process.
 
 ---
 
@@ -1235,24 +1281,92 @@ They should not be interpreted as five sequential stages of a mandatory executio
 
 The **HEART × HEAD × HAND × FLOW** model is currently a conceptual diagnostic model rather than a validated quantitative measurement equation.
 
+The EES architecture, maturity model, prioritization logic, and related constructs should likewise be treated as **conceptual management constructs unless and until empirically validated**.
+
 Future research may examine:
 
-- execution constraint measurement,
-- execution capability indicators,
-- flow integrity indicators,
-- Human Energy–execution relationships,
-- decision-to-execution relationships,
-- execution maturity,
-- sustainable execution capacity,
-- EX/CX relationships,
-- predictive indicators of execution degradation,
+- execution constraint measurement;
+- execution capability indicators;
+- flow integrity indicators;
+- Human Energy–execution relationships;
+- decision-to-execution relationships;
+- execution maturity;
+- Sustainable Execution Capacity;
+- EX/CX relationships;
+- predictive indicators of execution degradation;
+- learning and adaptation mechanisms;
+- relationships between execution capability, capacity, and sustainable value;
 - empirical validation of the EES architecture.
 
-Quantitative indices, thresholds, scoring systems, and predictive relationships should be introduced only when supported by an appropriate measurement and validation methodology.
+Quantitative indices, thresholds, scoring systems, causal claims, and predictive relationships should be introduced only when supported by an appropriate measurement and validation methodology.
+
+### Research Boundary
+
+> **Conceptual proposition ≠ validated causal relationship.**
+
+> **Construct ≠ established universal measure.**
+
+> **Observed association ≠ causal proof.**
 
 ---
 
-# 37. CLOSING PRINCIPLE
+# 37. CREATOR AND MAINTAINER
+
+**Md. Mozammel Hoque**  
+*Independent Management Researcher*  
+*Originator of Human Energy Economics (HEE)*
+
+Creator and maintainer of the Human Energy Economics ecosystem, including:
+
+- Human Energy Economics (HEE)
+- Organizational Excellence Operating System (OEOS / OOS)
+- Operational Silence Framework (OSF)
+- 3C Strategic Approach
+- 5R Cascade Framework
+- Human Energy Management System (HEMS)
+- Human Energy Audit (HEA)
+- Human Energy Recovery Framework (HERF)
+- Human Energy Development Plan (HEDP)
+- Human Energy Enablement (HEEn)
+- Execution Excellence System (EES)
+
+---
+
+# 38. REFERENCE
+
+EES should be interpreted within the broader **Human Energy Economics (HEE)** conceptual architecture.
+
+The canonical relationship is:
+
+> **HEE explains.**  
+> **OEOS/OOS orchestrates.**  
+> **OSF reduces unnecessary demand.**  
+> **3C directs attention.**  
+> **5R determines disposition.**  
+> **HEMS manages Human Energy.**  
+> **HEA diagnoses.**  
+> **HERF recovers.**  
+> **HEDP develops.**  
+> **HEEn enables application.**  
+> **EES manages execution.**
+
+Together, these mechanisms contribute to:
+
+> **Sustainable Execution Capacity → Sustainable Business Value**
+
+---
+
+# 39. LICENSE
+
+This framework is published as part of the repository containing this document.
+
+Use, reproduction, modification, and redistribution are governed by the repository's applicable **LICENSE** file.
+
+The canonical identity, authorship, and attribution of the framework should be preserved when the framework is referenced, reproduced, or adapted.
+
+---
+
+# 40. CLOSING PRINCIPLE
 
 Execution excellence is not the ability to push harder indefinitely.
 
@@ -1269,3 +1383,5 @@ It is to create a system increasingly capable of achieving tomorrow's result.
 **Execution is not a final step after strategy.**
 
 > **Execution is a living organizational system.**
+
+> **Find the constraint. Fix what matters. Control the gain. Learn from execution. Adapt the system. Grow future capability.**
