@@ -7,11 +7,11 @@
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Revised companion framework**  
-**Revision date: 28 October 2026**  
+**Version 1.0 — Companion framework**  
+**Revision date: 31 October 2026**  
 **Status: provisional research and practice reference**
 
-[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES repository](https://github.com/titumozammel/execution-excellence-system)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 > **Precision statement.** The Execution Excellence System is HEE’s proposed framework for managing execution once intended work is not becoming reliable results: find what materially limits reliable execution, fix the condition that matters most, control the gain, learn and adapt, and strengthen future execution capability. It does not establish that its cycle improves execution, that its eight diagnostic domains are distinct and can be classified reliably, that its priority step can identify the constraint that matters most, or that execution management leads to sustainable business value. Those are questions for evidence.
 
@@ -127,7 +127,7 @@ Grow strengthens future execution ability: capability, capacity, learning, adapt
 
 ### Management activities and the cycle
 
-The practical management flow below is a restatement of the cycle in the manager’s words, not a second model. An earlier edition gave two lists with slightly different steps and with Adapt and Learn in different orders; this edition uses one.
+The practical management flow below is a restatement of the cycle in the manager’s words, not a second model. It uses one list.
 
 | Management activity | Stage | The manager’s question |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ The practical management flow below is a restatement of the cycle in the manager
 
 ## Definitions and distinctions
 
-These definitions follow the closed HEE Core reference for this revision. Where EES adds a term, it says so.
+These definitions follow the HEE Core README. Where EES adds a term, it says so.
 
 | Term | Working meaning | Practical distinction |
 | --- | --- | --- |
@@ -194,7 +194,7 @@ These definitions follow the closed HEE Core reference for this revision. Where 
 | Control | Mechanisms that stabilize an improvement | Not an objective in itself |
 | Correction and adaptation | Correction fixes a deviation; adaptation changes the system in response to learning or changed conditions | A deviation may need only correction |
 
-Therefore: **Activity ≠ Progress ≠ Execution ≠ Sustained Execution**, **Capability ≠ Capacity ≠ Application ≠ Execution**, and **Sustained Execution ≠ Sustainable Execution Capacity**. These are related conditions, not interchangeable words. An earlier edition wrote “Capacity = Application”; this edition follows the Core, where capacity concerns how much capability can be applied and application is putting it to work.
+Therefore: **Activity ≠ Progress ≠ Execution ≠ Sustained Execution**, **Capability ≠ Capacity ≠ Application ≠ Execution**, and **Sustained Execution ≠ Sustainable Execution Capacity**. These are related conditions, not interchangeable words. Following the Core, capacity concerns how much capability can be applied, and application is putting it to work.
 
 ## The Decision Point
 
@@ -229,7 +229,6 @@ These routes can inform one another; they are not compulsory sequential stages.
 **The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
-
 
 **Applying the four definitions to execution.** Execution is where decisions meet consequences, so the four definitions separate what is easily blurred. *Decision Enablement:* did the people executing have the decision rights, information, authority, and access to act, or does someone else own the rule or the data? *Decision Process Quality:* how were the priorities, the fix, and the controls chosen, and were alternatives and safeguards considered? *Decision Quality:* given what could reasonably be known, was the choice appropriate? *Decision Outcome Quality:* what actually happened to the results and to next-cycle capacity? **Execution quality does not prove decision quality:** a poor decision can be executed efficiently, and a sound one can fail in execution. EES makes execution evidence available to later decisions; it does not replace decision-quality management.
 
@@ -334,7 +333,7 @@ HEE is the provisional capacity lens informed by economic questions. **OEOS** is
 
 ## Descriptive progression (legacy construct, not tested)
 
-Earlier editions described five conceptual maturity levels. They are retained as optional prompts, **[P] (legacy construct, not tested)**. They are not an established ordered maturity scale, a certification, or grounds to score organizations or teams, and progress can be uneven and reversible.
+Five conceptual maturity levels are offered as optional prompts, **[P] (legacy construct, not tested)**. They are not an established ordered maturity scale, a certification, or grounds to score organizations or teams, and progress can be uneven and reversible.
 
 | Level | Prompt | What it describes |
 | --- | --- | --- |
