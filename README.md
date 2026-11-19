@@ -2,10 +2,6 @@
 
 ## Execution should make future execution stronger, not merely today’s result better.
 
-*A framework for finding what limits reliable execution, fixing what matters most, controlling the gain, learning from results, adapting, and strengthening the ability to execute again.*
-
-*The heading is a slogan, not a claim. What EES does and does not show is set out in the precision statement below.*
-
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
@@ -13,51 +9,13 @@
 **Initial publication date: 31 October 2026**  
 [HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
-> **Precision statement.** The Execution Excellence System is HEE’s practice-driven framework for managing execution once intended work is not becoming reliable results: find what materially limits reliable execution, fix the condition that matters most, control the gain, learn and adapt, and strengthen future execution capability. It does not establish that its cycle improves execution, that its eight diagnostic domains are distinct and can be classified reliably, that its priority step can identify the constraint that matters most, or that execution management leads to sustainable business value. Those are questions for evidence.
+**In 60 seconds.** Fixing a problem once is not the same as making execution reliable. EES is a cycle: find what limits reliable execution, fix what matters most, control the gain, learn from the results, and strengthen the ability to execute again. A completed fix does not show that the improvement will hold. → [Use it today](#use-it-today)
 
-> **Evidence status.** EES is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice. Its cycle, diagnostic architecture, eight domains, four-part diagnostic lens, and maturity levels are proposals that require testing. Established work on systems thinking and quality management, organizational learning, constraint management, and strategy execution overlaps with the framework in places; it does not validate EES’s particular integration or show that EES adds decision value beyond those methods. The author originated HEE and EES and has a commercial interest disclosed below. The HEE Case Studies record is not an application of the EES cycle and does not test it. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+> **Status.** EES comes from the author’s practice. Examples marked [Illustrative] are invented. Author-reported results have not been independently verified. Try it in your context, and tell the author what you find.
 
-> **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
->
-> HEE draws on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
-
-> **Foundation.** HEE is based on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first.
->
-> In EES this shows as a cycle that fixes a problem, controls its recurrence, and anticipates what could obstruct the next cycle.
-
-**How to read the status of EES**
-
-- **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
-- **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
-- **What would change EES:** see [Open questions](#research-agenda-and-tests). What would narrow or retire EES is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#ees-research-agenda-and-tests).
-- **What EES is not:** not independently validated, not shown to be better than established methods of systems thinking, quality management, organizational learning, constraint management, or strategy execution, and not a clinical diagnostic tool or a substitute for applicable compliance requirements or professional audit standards.
-
-**Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
+**Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Status and evidence](#status-and-evidence), [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
 
 EES is readable on its own; cross-references exist because it is one of a family of companion frameworks, not a comprehensive method.
-
-## Reader's guide
-
-We fix the problem, and it returns. This guide shows where to enter EES for your role.
-
-| Audience | What you can take away | Start here | First useful step | Suggested time |
-| --- | --- | --- | --- | --- |
-| **Board and audit committee** | A way to ask whether a fix changed the condition that produced the problem | [Owner view: one page](#owner-view-one-page). Then skim: [Sustainability, capacity, and value](#sustainability-capacity-and-value) | Ask what was checked, a few cycles later, to see whether the fix held | 10 min |
-| **CEO, C-suite, and owners** | A cycle (Find, Fix, Control, Adapt, Grow) for problems that return after being fixed | [Use it today](#use-it-today), [Owner view: one page](#owner-view-one-page). Then skim: [The EES cycle](#the-ees-cycle) | Choose one problem that keeps returning and ask what condition produces it | 15 min |
-| **Operations managers and team leaders** | Eight domains to check when execution slips | [The EES cycle](#the-ees-cycle), [Eight execution-constraint domains](#eight-execution-constraint-domains). Then skim: [Working principles](#working-principles) | Walk one recurring slip through the cycle and the eight domains | 25 min |
-| **Practitioners and consultants** | A diagnostic architecture and a lens (HEART, HEAD, HAND, FLOW) for recurring execution problems | [Diagnostic architecture](#diagnostic-architecture), [One case from question to review](#one-case-from-question-to-review). Then skim: [The HEART × HEAD × HAND × FLOW lens](#the-heart--head--hand--flow-lens) | Apply the cycle to one live problem and record what remains Unknown | 40 min |
-| **Researchers** | Open questions and how EES could be tested | [Open questions](#research-agenda-and-tests), then [EES: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#ees-research-agenda-and-tests) in Research notes | Choose one open question and plan a fair test | 30 min |
-| **New to HEE** | Why a fix and a durable fix are different questions | [Use it today](#use-it-today), [The question EES answers](#the-question-ees-answers). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one problem of your own that returned | 10 min |
-
-*Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
-
-**Also useful for any role:** [The Decision Point](#the-decision-point) for judging a decision, and [HEE in four questions](#hee-in-four-questions) for the HEE frame before the detail here.
-
-**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where)), then use the role row that fits.
-
-**Only five minutes?** Read [Use it today](#use-it-today), then [The EES cycle](#the-ees-cycle).
-
-**You can defer on a first reading:** the descriptive progression, the Related approaches note, and the Open questions, unless you are a researcher. Read the evidence-status summary before applying the guidance.
 
 ## Use it today
 
@@ -70,7 +28,7 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 **Ask:**
 
 1. **Find:** what is preventing reliable execution now?
-2. **Fix** and **Control:** what should change first, and how do we hold the gain without adding burden?
+2. **Fix** and **Control:** what should change first, and how do we hold the gain with proportionate control?
 3. **Adapt** and **Grow:** what did we learn, and what must be stronger next time?
 
 **You get:** a repeating cycle with an owner, a stop rule, and a recorded decision at each pass.
@@ -93,9 +51,9 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 **The point of the cycle:** each pass examines whether the team is better able to execute the next cycle.
 
-**Where it does not fit:** if the work has not yet been attempted, there is nothing for EES to find. EES is for execution that exists and is not holding. More control is not better execution; excessive control adds delay.
+**Scope.** This guide focuses on execution already underway. For planned work, examine readiness and foreseeable constraints; actual execution outcomes remain untested. More control is not automatically better execution; excessive control can add delay.
 
-**A useful next step:** before you act, ask the four [Decision Point](#the-decision-point) questions about your decision; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
+**A useful next step:** before you act, check your decision against the four [Decision Point](#the-decision-point) assessments; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
 
 **Go deeper:** [The EES cycle](#the-ees-cycle) · [Eight execution-constraint domains](#eight-execution-constraint-domains) · [One case from question to review](#one-case-from-question-to-review)
 
@@ -103,15 +61,38 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 ---
 
+## Reader's guide
+
+We fix the problem, and it returns. This guide shows where to enter EES for your role.
+
+| Audience | What you can take away | Start here | First useful step | Suggested time |
+| --- | --- | --- | --- | --- |
+| **Board and audit committee** | A way to ask whether a fix changed the condition that produced the problem | [Owner view: one page](#owner-view-one-page). Then skim: [Sustainability, capacity, and value](#sustainability-capacity-and-value) | Ask what was checked, a few cycles later, to see whether the fix held | 10 min |
+| **CEO, C-suite, and owners** | A cycle (Find, Fix, Control, Adapt, Grow) for problems that return after being fixed | [Use it today](#use-it-today), [Owner view: one page](#owner-view-one-page). Then skim: [The EES cycle](#the-ees-cycle) | Choose one problem that keeps returning and ask what condition produces it | 15 min |
+| **Operations managers and team leaders** | Eight domains to check when execution slips | [The EES cycle](#the-ees-cycle), [Eight execution-constraint domains](#eight-execution-constraint-domains). Then skim: [Working principles](#working-principles) | Walk one recurring slip through the cycle and the eight domains | 25 min |
+| **Practitioners and consultants** | A diagnostic architecture and a lens (HEART, HEAD, HAND, FLOW) for recurring execution problems | [Diagnostic architecture](#diagnostic-architecture), [One case from question to review](#one-case-from-question-to-review). Then skim: [The HEART × HEAD × HAND × FLOW lens](#the-heart--head--hand--flow-lens) | Apply the cycle to one live problem and record what remains Unknown | 40 min |
+| **Researchers** | Open questions and how EES could be tested | [Open questions](#research-agenda-and-tests), then [EES: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#ees-research-agenda-and-tests) in Research notes | Choose one open question and plan a fair test | 30 min |
+| **New to HEE** | Why a fix and a durable fix are different questions | [Use it today](#use-it-today), [The question EES answers](#the-question-ees-answers). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one problem of your own that returned | 10 min |
+
+*Times are suggestions, not measurements. The first useful step is a suggestion; the decision stays yours.*
+
+**Also useful for any role:** [The Decision Point](#the-decision-point) for judging a decision, and [HEE in four questions](#hee-in-four-questions) for the HEE frame before the detail here.
+
+**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where)), then use the role row that fits.
+
+**Only five minutes?** Read [Use it today](#use-it-today), then [The EES cycle](#the-ees-cycle).
+
+**You can defer on a first reading:** the descriptive progression, the Related approaches note, and the Open questions, unless you are a researcher. Read the evidence-status summary before applying the guidance.
+
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. The Execution Excellence System (EES) is the framework for managing execution once intended work is not becoming reliable results: find what limits it, fix what matters most, control the gain, learn and adapt, and strengthen future execution capability.
+**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. The Execution Excellence System (EES) is the framework for managing execution once intended work is not becoming reliable results: find what limits it, fix what matters most, control the gain, learn and adapt, and strengthen future execution capability.
 
-**2. What does HEE contribute?** HEE offers one connected way to ask three things: what limits execution, what evidence supports the answer, and whether others can review the decision and its results. It also asks two separate questions: was the capacity we used *Justified?*, and is the real demand of the next cycle *Covered?* This is a proposal. It is not yet an established finding, and it is not shown to be better than other approaches. EES adds a five-step cycle (Find, Fix, Control, Adapt, Grow) with eight diagnostic domains.
+**2. What does HEE contribute?** One connected way to ask what limits execution, what evidence supports the answer, and whether others can review the decision. It keeps two judgments separate: was the capacity spent *Justified?*, and will the next cycle’s demand be *Covered?* Whether this adds value beyond existing approaches remains open to independent testing. EES adds a five-step cycle (Find, Fix, Control, Adapt, Grow) with eight diagnostic domains.
 
-**3. How do I apply it to my problem?** *Context shapes the route.* Start with the problem you can see and the decision you need to make. Then choose and combine three routes: **Diagnose** (look for possible causes), **Establish** (collect the evidence you need for a sound conclusion), and **Verify** (compare what is done with a stated standard). The routes work together; you do not have to follow them in order. Change the route when the evidence or the conditions change. Every route depends on context and evidence. Use this document when intended work is not becoming reliable results and the limiting condition is unclear. The Core’s signature question is: *What prevents the capability we have from becoming execution—and what must change next?*
+**3. How do I apply it to my problem?** Start with the problem you can see and the decision you need to make. Context shapes the route: **Diagnose** (look for causes), **Establish** (collect missing evidence) or **Verify** (compare practice with a standard). The routes are not stages; change route as the evidence changes. Use this document when intended work is not becoming reliable results and the limiting condition is unclear. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) explains the routes and the six practitioner moves.
 
-**4. How should I use HEE?** Use HEE to ask better questions and to review decisions with your own evidence and judgment. It supports your thinking; it does not replace expert judgment. Check in your own case whether the cycle improves execution, whether the eight domains are distinct in practice, and whether the problem is an execution problem at all. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
+**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment; its checklists support that work rather than determine the answer. Check in your own case whether the cycle improves execution, whether the eight domains are distinct in practice, and whether the problem is an execution problem at all. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question EES answers
 
@@ -153,18 +134,18 @@ In the Core’s vocabulary, an unreliable-execution signal is an **Execution Def
 
 **Do not:** treat activity as execution; fix the most visible problem by default; add control because a result slipped; call a result sustainable because it was achieved once.
 
-What EES has and has not shown is in the [evidence status](#execution-excellence-system-ees) and the [AKG relationship](#relationship-to-the-hee-case-studies-practice-record).
+What EES has and has not shown is in the [evidence status](#status-and-evidence) and the [AKG relationship](#relationship-to-the-hee-case-studies-practice-record).
 
 ## Find your question
 
 | Question | Primary function | Asked by | Answered in | Decision it unlocks |
 | --- | --- | --- | --- | --- |
 | Is this the right tool for my situation? | Choose a tool | All readers | [Use it today](#use-it-today): when to use EES, three questions, and a worked example | Whether to use EES or open another tool |
-| What exactly does EES help me decide? | Define scope | All readers | [Precision statement](#execution-excellence-system-ees); [central question](#the-question-ees-answers) | Whether EES is a suitable starting point |
+| What exactly does EES help me decide? | Define scope | All readers | [Status and evidence](#status-and-evidence); [central question](#the-question-ees-answers) | Whether EES is a suitable starting point |
 | Why is execution unreliable? | Find the limiting condition | Practitioner, owner | [Find](#find): separating symptoms from limiting conditions; [Diagnostic architecture](#diagnostic-architecture): eight domains to examine | Which domains to examine and what evidence to seek |
 | Which constraint matters most? | Set priority | Owner, practitioner | [Execution Constraint Intelligence](#diagnostic-architecture) | What to fix first |
 | What should I change first, and how? | Fix | Manager, owner | [Fix](#fix): the condition that matters most, with an owner and a stop rule | A first reversible step with a stop rule |
-| How do I make the improvement hold without adding burden? | Control | Manager, auditor | [Control](#control): indicators, owners, and reviews in proportion | Which indicators, owners, and reviews are proportionate |
+| How do I make the improvement hold with proportionate control? | Control | Manager, auditor | [Control](#control): indicators, owners, and reviews in proportion | Which indicators, owners, and reviews are proportionate |
 | What did execution teach us, and what changes? | Learn and adapt | Manager, owner | [Adapt](#adapt): recording a decision to change or deliberately keep | What to change, or deliberately keep, in methods, decisions, or design |
 | How do we make the next cycle stronger? | Grow | Owner | [Grow](#grow): strengthening capability for the next cycle; [Sustainability](#sustainability-capacity-and-value) | Which capability or capacity to strengthen and how to check it |
 | Is this really an execution problem? | Route | Practitioner | [Boundaries](#boundaries-and-architecture) | Whether the next step belongs to OSF, 3C, 5R, HEEn, HEMS, or elsewhere |
@@ -185,7 +166,7 @@ The cycle is **FIND → FIX → CONTROL → ADAPT → GROW**, and it repeats. It
 | --- | --- | --- | --- |
 | **FIND** | What is preventing reliable execution now? | A supported account of what materially limits execution, with what is Unknown | A hunt for the most visible problem |
 | **FIX** | What should be changed first because it matters most? | A condition-changing intervention, with a stop rule and an owner | A corrective action against a symptom |
-| **CONTROL** | How do we stabilize the gain without adding burden? | Indicators, owners, thresholds, and reviews in proportion | Control for its own sake |
+| **CONTROL** | How do we stabilize the gain with proportionate control? | Indicators, owners, thresholds, and reviews in proportion | Control for its own sake |
 | **ADAPT** | What did execution teach us, and what should change, or deliberately stay, because of it? | A recorded decision to change or keep a method, decision, interface, control, or assumption | A report with no recorded decision |
 | **GROW** | What must become stronger so the organization can execute better next time? | Strengthened capability, capacity, or readiness, checked against the next cycle | Assumed improvement |
 
@@ -299,7 +280,7 @@ Assess these separately. A good outcome does not prove that the process or choic
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the expenditure of capacity warranted?
+- **Justified?** Was the capacity spent warranted?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -356,7 +337,7 @@ A finance team’s month-end close has finished on working day 9 against a targe
 
 **Adapt and Grow.** The review finds the approver wait is now the longest delay, so approval cover is made permanent and a second approver is trained (a change). The approval limit is deliberately kept, with a review date, until its purpose is established (a decision to keep). The team records what it learned, what changed, and what it kept and why.
 
-**The two checks.** *Justified?* **Unknown** until the existing effort has been assessed for necessity, proportionality, and alternatives. The available evidence favored testing coordination and approval arrangements before hiring, and did not establish that additional staffing would provide no benefit; that bears on the choice of intervention, not on whether the effort was warranted. *Covered?* Next-cycle capacity is **Fragile**: the improved close fits the base case but not a quarter-end close with the same overtime. A credible contingency is named: a person, a scheduled slot, the authority to use it, and a trigger date. A day-6 result achieved with unplanned overtime is a result, not evidence of sustained execution.
+**The Two Checks.** *Justified?* **Unknown** until the existing effort has been assessed for necessity, proportionality, and alternatives. The available evidence favored testing coordination and approval arrangements before hiring, and did not establish that additional staffing would provide no benefit; that bears on the choice of intervention, not on whether the effort was warranted. *Covered?* Next-cycle capacity is **Fragile**: the improved close fits the base case but not a quarter-end close with the same overtime. A credible contingency is named: a person, a scheduled slot, the authority to use it, and a trigger date. A day-6 result achieved with unplanned overtime is a result, not evidence of sustained execution.
 
 **The four decision reviews.** The owner’s decision rights, authority, information and access support Decision Enablement. The sales team’s ability to use the agreed handoff is a separate implementation condition. The sample, the alternatives, and the safeguards describe Decision Process Quality. The choice is judged against what was known before it began. Close days, late inputs, rework, and overtime describe Decision Outcome Quality. These assessments may differ.
 
@@ -381,7 +362,7 @@ A finance team’s month-end close has finished on working day 9 against a targe
 
 **Sustainable Execution Capacity (SEC)** is the organization’s continuing ability and readiness to execute effectively over time. EES asks: **what did today’s execution do to tomorrow’s ability to execute?** Execution can consume Human Energy, capability, attention, relationships, flexibility, trust, learning capacity, and financial capacity. A result can be achieved while weakening the organization’s ability to reproduce it, so a result alone does not establish sustained execution.
 
-**The sustainability test, with the Two Checks [H].** The EES test is *did today’s execution strengthen or unnecessarily weaken tomorrow’s execution capacity?* Apply it with the Core’s Two Checks. *Justified?* Was the capacity spent warranted (yes, partly, no, or Unknown)? *Covered?* Over a stated next-cycle horizon, does credible expected usable capacity meet legitimate demand? The evidence states are **Covered**, **Fragile**, **Not covered**, and **Unknown**. For **Fragile**, require a credible contingency (a named person, a scheduled slot, the resource or authority, and a trigger date); if any is missing or infeasible, act as if Not covered. For **Unknown**, establish the missing evidence by a stated date, and if it passes without decisive evidence, act as if Not covered for the decision. Precautionary action does not change the record: Fragile or Unknown stays on record as the evidence state. See [OSF’s release and coverage section](https://github.com/titumozammel/operational-silence-framework#justified-expenditure-release-and-future-coverage) and the Core’s [one-page card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp). Justified capacity expenditure can still leave a future shortfall. The Justified? check assesses capacity expenditure, not the result. The two checks are read together.
+**The sustainability test, with the Two Checks [H].** The EES test is *did today’s execution strengthen or unnecessarily weaken tomorrow’s execution capacity?* Apply it with the Core’s Two Checks. *Justified?* Was the capacity spent warranted (yes, partly, no, or Unknown)? *Covered?* Over a stated next-cycle horizon, does credible expected usable capacity meet legitimate demand? The evidence states are **Covered**, **Fragile**, **Not covered**, and **Unknown**. For **Fragile**, require a credible contingency (a named person, a scheduled slot, the resource or authority, and a trigger date); if any is missing or infeasible, act as if Not covered. For **Unknown**, establish the missing evidence by a stated date, and if it passes without decisive evidence, act as if Not covered for the decision. Precautionary action does not change the record: Fragile or Unknown stays on record as the evidence state. See [OSF’s release and coverage section](https://github.com/titumozammel/operational-silence-framework#justified-expenditure-release-and-future-coverage) and the Core’s [one-page card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp). Justified capacity expenditure can still leave a future shortfall. The Justified? check assesses capacity expenditure, not the result. The Two Checks are read together.
 
 **Value.** The proposed pathway is: reliable execution → learning → adaptation → stronger execution capability → SEC → sustainable business value **[P]**. EES contributes to the front of this pathway and establishes no later step. Business value also depends on strategy, markets, customers, competition, economics, technology, regulation, and other external conditions. Good execution cannot indefinitely compensate for bad strategy.
 
@@ -398,7 +379,7 @@ A finance team’s month-end close has finished on working day 9 against a targe
 
 ## Boundaries and architecture
 
-HEE is the capacity lens informed by economic questions. **OEOS** is the operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. EES is an execution-management framework: the layer through which intended work becomes reliable, adaptive execution. It does not replace the mechanisms below, and it is not a mandatory stage after them.
+HEE is the capacity lens informed by economic questions. **OEOS** (Organizational Excellence Operating System) is the operating architecture; **HEMS** (Human Energy Management System), **HEA** (Human Energy Audit), **HERF** (Human Energy Recovery Framework) and **HEDP** (Human Energy Development Plan) are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. EES is an execution-management framework: the layer through which intended work becomes reliable, adaptive execution. It does not replace the mechanisms below, and it is not a mandatory stage after them.
 
 | Related element | Its role | EES boundary |
 | --- | --- | --- |
@@ -490,6 +471,21 @@ Five descriptive maturity levels are offered as optional prompts, **[P] (legacy 
 | 3. Diagnostic execution | “What underlies this?” | Underlying execution constraints are identified |
 | 4. Adaptive execution | “What must change because of this?” | Learning systematically changes the operating system |
 | 5. Self-reinforcing execution | “How does execution strengthen the next cycle?” | Execution becomes a source of stronger capability |
+
+## Status and evidence
+
+**What EES is.** The Execution Excellence System is HEE’s practice-driven framework for managing execution once intended work is not becoming reliable results: find what materially limits reliable execution, fix the condition that matters most, control the gain, learn and adapt, and strengthen future execution capability. It does not establish that its cycle improves execution, that its eight diagnostic domains are distinct and can be classified reliably, that its priority step can identify the constraint that matters most, or that execution management leads to sustainable business value. Those are questions for evidence.
+
+**Evidence status.** EES is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice. Its cycle, diagnostic architecture, eight domains, four-part diagnostic lens (a way of looking at a problem), and maturity levels are proposals that require testing. Established work on systems thinking and quality management, organizational learning, constraint management, and strategy execution overlaps with the framework in places; it does not validate EES’s particular integration or show that EES adds decision value beyond those methods. The author originated HEE and EES and has a commercial interest disclosed below. The HEE Case Studies record is not an application of the EES cycle and does not test it. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+
+**Foundation.** HEE comes from the author’s practice. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) sets out its foundation and approach. In EES this shows as a cycle that fixes a problem, controls its recurrence, and anticipates what could obstruct the next cycle.
+
+**How to read the status of EES**
+
+- **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
+- **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
+- **What would change EES:** see [Open questions](#research-agenda-and-tests). What would narrow or retire EES is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#ees-research-agenda-and-tests).
+- **What EES is not:** not independently validated, not shown to be better than established methods of systems thinking, quality management, organizational learning, constraint management, or strategy execution, and not a clinical diagnostic tool or a substitute for applicable compliance requirements or professional audit standards.
 
 ## Author and disclosure
 
