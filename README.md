@@ -31,6 +31,8 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 2. **Fix** and **Control:** what should change first, and how do we hold the gain with proportionate control?
 3. **Adapt** and **Grow:** what did we learn, and what must be stronger next time?
 
+**First step this week:** Pick one problem that came back. Write what you changed. Then ask whether that changed the condition that produces the problem.
+
 **You get:** a repeating cycle with an owner, a stop rule, and a recorded decision at each pass.
 
 ### Explained by example **[Illustrative]**
@@ -92,7 +94,7 @@ We fix the problem, and it returns. This guide shows where to enter EES for your
 
 **3. How do I apply it to my problem?** Start with the problem you can see and the decision you need to make. Context shapes the route: **Diagnose** (look for causes), **Establish** (collect missing evidence) or **Verify** (compare practice with a standard). The routes are not stages; change route as the evidence changes. Use this document when intended work is not becoming reliable results and the limiting condition is unclear. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) explains the routes and the six practitioner moves.
 
-**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment; its checklists support that work rather than determine the answer. Check in your own case whether the cycle improves execution, whether the eight domains are distinct in practice, and whether the problem is an execution problem at all. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
+**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment, guided by principles; its checklists support that work rather than determine the answer. Check in your own case whether the cycle improves execution, whether the eight domains are distinct in practice, and whether the problem is an execution problem at all. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question EES answers
 
@@ -251,7 +253,7 @@ These definitions follow the HEE Core README. Where EES adds a term, it says so.
 | Capacity | The part of capability that can actually be applied in a given period, given the time, attention, and energy available | Access, authority, and information belong to Enablement, not to capacity |
 | Application | Putting capability to work | Having capacity does not establish that it is applied, or applied to the right work |
 | Execution | The reliable translation of application into coordinated action and results | Application alone is not execution |
-| Reliable execution (EES term) | Execution whose results are produced as intended, repeatedly | Not the same as one good result |
+| Reliable execution (EES term) | Execution whose results are produced as intended, repeatedly | Not the same as one favorable result |
 | Sustained Execution | Producing a result repeatedly without degrading future execution capacity | Not the same as Sustainable Execution Capacity |
 | Execution Deficit | An outcome in which expected execution does not occur reliably | A trigger for inquiry, not a cause |
 | Sustainable Execution Capacity (SEC) [P] | Continuing ability and readiness to execute effectively over time | Requires follow-up evidence; one good cycle does not establish SEC |
@@ -276,11 +278,11 @@ Within HEE, consequential decisions along the pathway from capability to sustain
 
 **Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
+Assess these separately. A favorable outcome does not prove that the process or choice was sound; an unfavorable outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the capacity spent warranted?
+- **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -297,7 +299,7 @@ These routes can inform one another; they are not compulsory sequential stages.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-**Applying the four definitions to execution.** Execution is where decisions meet consequences, so the four definitions separate what is easily blurred. *Decision Enablement:* did the people executing have the decision rights, information, authority, and access to act, or does someone else own the rule or the data? *Decision Process Quality:* how were the priorities, the fix, and the controls chosen, and were alternatives and safeguards considered? *Decision Quality:* given what could reasonably be known, was the choice appropriate? *Decision Outcome Quality:* what actually happened to the results and to next-cycle capacity? **Execution quality does not prove decision quality:** a poor decision can be executed efficiently, and a sound one can fail in execution. EES makes execution evidence available to later decisions; it does not replace decision-quality management.
+**Applying the four definitions to execution.** Execution is where decisions meet consequences, so the four definitions separate what is easily blurred. *Decision Enablement:* did those responsible for choosing the response have the decision rights, information, authority, and access needed to decide, or does someone else own the rule or the data? *Decision Process Quality:* how were the priorities, the fix, and the controls chosen, and were alternatives and safeguards considered? *Decision Quality:* given what could reasonably be known, was the choice appropriate? *Decision Outcome Quality:* what actually happened to the results and to next-cycle capacity? **Execution quality does not prove decision quality:** a flawed decision can be executed efficiently, and a sound one can fail in execution. EES makes execution evidence available to later decisions; it does not replace decision-quality management.
 
 **Investigation routes in the cycle.** The routes are not stages and can inform one another. In Find, **Diagnose** tests candidate causes and **Establish** gathers the evidence that makes an uncertain question decidable. In Control, **Verify** compares practice with a stated standard using traceable evidence. In Adapt, a review may use any of the three.
 
@@ -493,7 +495,7 @@ Five descriptive maturity levels are offered as optional prompts, **[P] (legacy 
 
 **Author position and disclosure.** The author originated HEE and EES, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and EES are received. Practice observations from AKG are author-reported, not independent assessment.
 
-**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I began each piece of work with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
 
 ## License
 
